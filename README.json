@@ -1,7 +1,449 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "To get the most out of the grep utilities mentioned above, use them along with sed and awk (and add some Perl in particularly difficult cases).\nYou can read more about all this here:\nCommand line text processing manual https://github.com/learnbyexample/Command-line-text-processing\nExamples of regular expressions for extracting various data from texts can be found in the repository:\nThank you for following me! https://cybdetective.com",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ripgrep-all",
+          "description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. https://github.com/phiresky/ripgrep-all",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190254663,
+            "language": "Rust",
+            "last_commit": "2026-03-25T15:21:58Z",
+            "owner": "phiresky",
+            "repo": "ripgrep-all",
+            "stars": 9824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RZgrep",
+          "description": "\"Grep utility that searches through zip,jar,ear,tgz,bz2 in any form of nesting\" https://github.com/MoserMichael/rzgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478007330,
+            "language": "Go",
+            "last_commit": "2023-02-16T10:01:10Z",
+            "owner": "MoserMichael",
+            "repo": "rzgrep",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XLSgrep",
+          "description": "\"CLI tool to search text in XLSX, XLS and ODS files. It works similarly to Unix/GNU Linux grep\" https://github.com/zazuum/xlsxgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202332301,
+            "language": "Python",
+            "last_commit": "2025-12-23T23:04:04Z",
+            "owner": "zazuum",
+            "repo": "xlsxgrep",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hgrep",
+          "description": "\"Grep\" for searching/replacement in html code https://github.com/TUVIMEN/hgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325020145,
+            "language": "C",
+            "last_commit": "2026-05-16T20:23:09Z",
+            "owner": "TUVIMEN",
+            "repo": "reliq",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BINgrep",
+          "description": "Grep for binaries files https://github.com/m4b/bingrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83196963,
+            "language": "Rust",
+            "last_commit": "2026-01-05T02:04:03Z",
+            "owner": "m4b",
+            "repo": "bingrep",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cgrep",
+          "description": "Grep for source codes in C/C++ https://github.com/awgn/cgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9998485,
+            "language": "Haskell",
+            "last_commit": "2026-05-12T11:01:10Z",
+            "owner": "awgn",
+            "repo": "cgrep",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BHgrep",
+          "description": "Command-line tool that lets you search through your browser history across Chrome, Firefox, Safari, and Edge https://github.com/jondot/bhgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1114629670,
+            "language": "Rust",
+            "last_commit": "2025-12-22T16:01:58Z",
+            "owner": "jondot",
+            "repo": "bhgrep",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ngrep",
+          "description": "PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw https://github.com/jpr5/ngrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 453178,
+            "language": "C",
+            "last_commit": "2026-02-08T03:34:33Z",
+            "owner": "jpr5",
+            "repo": "ngrep",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHPgrep",
+          "description": "Grep for PHP source code https://github.com/quasilyte/phpgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194259712,
+            "language": "Go",
+            "last_commit": "2024-04-29T17:39:17Z",
+            "owner": "quasilyte",
+            "repo": "phpgrep",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UCG (Universal Code Grep)",
+          "description": "Extremely fast grep-like tool specialized for searching large bodies of source code https://github.com/gvansickle/ucg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41645766,
+            "language": "C++",
+            "last_commit": "2024-12-28T02:49:04Z",
+            "owner": "gvansickle",
+            "repo": "ucg",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MP4grep",
+          "description": "CLI for transcribing and searching audio/video files https://github.com/o-oconnell/mp4grep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390060017,
+            "language": "C",
+            "last_commit": "2023-01-13T05:27:10Z",
+            "owner": "o-oconnell",
+            "repo": "mp4grep",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hackers Grep",
+          "description": "Utility to search for strings in PE executables including imports, exports, and debug symbols https://github.com/codypierce/hackers-grep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41688854,
+            "language": "Python",
+            "last_commit": "2018-07-07T22:10:04Z",
+            "owner": "codypierce",
+            "repo": "hackers-grep",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JVgrep",
+          "description": "Grep for Japanese vimmer. You can find text from files that written in another Japanese encodings https://github.com/mattn/jvgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2232552,
+            "language": "Go",
+            "last_commit": "2026-04-13T12:28:21Z",
+            "owner": "mattn",
+            "repo": "jvgrep",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNgrep",
+          "description": "Graphical grep tool for Windows https://github.com/dnGrep/dnGrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24975261,
+            "language": "C#",
+            "last_commit": "2026-08-19T08:51:31Z",
+            "owner": "dnGrep",
+            "repo": "dnGrep",
+            "stars": 2163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greplace.vim",
+          "description": "Global search and replace for VI https://github.com/skwp/greplace.vim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 973385,
+            "language": "VimL",
+            "last_commit": "2016-05-02T14:42:24Z",
+            "owner": "skwp",
+            "repo": "greplace.vim",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearchInProject_SublimeText",
+          "description": "Use ag, ack, grep and git grep directly from Sublime Text 2 and 3 https://github.com/leonid-shevtsov/SearchInProject_SublimeText",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 6146278,
+            "language": "Python",
+            "last_commit": "2023-01-27T16:07:45Z",
+            "owner": "leonid-shevtsov",
+            "repo": "SearchInProject_SublimeText",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACK3",
+          "description": "grep-like Perl search tool optimized for source code https://github.com/beyondgrep/ack3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83812650,
+            "language": "Perl",
+            "last_commit": "2026-06-11T01:35:11Z",
+            "owner": "beyondgrep",
+            "repo": "ack3",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Silver Searcher",
+          "description": "Extreme grep-like C+Perl search tool for source code https://github.com/ggreer/the_silver_searcher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2810455,
+            "language": "C",
+            "last_commit": "2024-06-16T19:37:41Z",
+            "owner": "ggreer",
+            "repo": "the_silver_searcher",
+            "stars": 27104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sift",
+          "description": "GO fast and powerfull alternative for grep https://github.com/svent/sift",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30164643,
+            "language": "Go",
+            "last_commit": "2026-06-30T21:07:43Z",
+            "owner": "svent",
+            "repo": "sift",
+            "stars": 1651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRU",
+          "description": "Ruby analog for grep, sed, awk https://github.com/grosser/pru",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1620061,
+            "language": "Ruby",
+            "last_commit": "2026-07-01T21:04:50Z",
+            "owner": "grosser",
+            "repo": "pru",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueFlower",
+          "description": "Python grep tool for searcing in PDF, DOCX, XLSX, tar, ZIP, bzip2, gzip https://github.com/veorq/blueflower",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18853212,
+            "language": "Python",
+            "last_commit": "2022-05-04T10:19:07Z",
+            "owner": "veorq",
+            "repo": "blueflower",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RipGrep (rg)",
+          "description": "ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern, similar to the Silver Searcher, awk; but (much) faster https://github.com/BurntSushi/ripgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53631945,
+            "language": "Rust",
+            "last_commit": "2026-08-04T13:59:44Z",
+            "owner": "BurntSushi",
+            "repo": "ripgrep",
+            "stars": 67555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinGrep",
+          "description": "Simple Windows utility to search for strings in Windows files. https://github.com/alexgelman/WinGrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45859024,
+            "language": "C++",
+            "last_commit": "2015-11-10T15:13:57Z",
+            "owner": "alexgelman",
+            "repo": "WinGrep",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FQGREP",
+          "description": "Grep for FASTQ (text-based format for storing both a biological sequence) files https://github.com/fulcrumgenomics/fqgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 416465549,
+            "language": "Rust",
+            "last_commit": "2026-07-09T10:14:08Z",
+            "owner": "fulcrumgenomics",
+            "repo": "fqgrep",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vgrep",
+          "description": "Pager for grep, git-grep, ripgrep and similar grep implementations, and allows for opening the indexed file locations in a user-specified editor such as vim or emacs https://github.com/vrothberg/vgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32987887,
+            "language": "Go",
+            "last_commit": "2026-08-21T07:33:29Z",
+            "owner": "vrothberg",
+            "repo": "vgrep",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astgrep",
+          "description": "A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust https://github.com/HerringtonDarkholme/ast-grep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 539162593,
+            "language": "HTML",
+            "last_commit": "2022-09-23T14:41:10Z",
+            "owner": "HerringtonDarkholme",
+            "repo": "ast-grep",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress-grep",
+          "description": "A Perl tool to search through a WordPress database https://github.com/briandfoy/wordpress-grep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15140648,
+            "language": "Perl",
+            "last_commit": "2026-03-10T12:17:56Z",
+            "owner": "briandfoy",
+            "repo": "wordpress-grep",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudGrep",
+          "description": "Searching log files, optionally compressed with gzip (.gz) or zip (.zip), in AWS S3, Azure Storage or Google Cloud Storage. https://github.com/cado-security/cloudgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698685655,
+            "language": "Python",
+            "last_commit": "2026-03-14T12:41:34Z",
+            "owner": "cado-security",
+            "repo": "cloudgrep",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cipher387/grep_for_osint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391687712,
+            "language": "Shell",
+            "last_commit": "2023-03-05T16:21:06Z",
+            "owner": "cipher387",
+            "repo": "grep_for_osint",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T20:34:10.731Z",
+    "last_updated": "2026-08-24T14:39:52.815Z",
     "original_repository": "cipher387/awesome-grep",
     "original_repository_id": 482655067,
     "original_repository_sha": "2806719ff421092f8ee90f0bc2f73b379c7377ee",
