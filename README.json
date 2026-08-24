@@ -42,7 +42,7 @@
             "archived": false,
             "id": 202332301,
             "language": "Python",
-            "last_commit": "2025-12-23T23:04:04Z",
+            "last_commit": "2026-08-24T20:03:53Z",
             "owner": "zazuum",
             "repo": "xlsxgrep",
             "stars": 55
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-19T08:51:31Z",
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2163
+            "stars": 2164
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27104
+            "stars": 27106
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67555
+            "stars": 67563
           }
         },
         {
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:52.815Z",
+    "last_updated": "2026-08-24T20:41:14.014Z",
     "original_repository": "cipher387/awesome-grep",
     "original_repository_id": 482655067,
     "original_repository_sha": "2806719ff421092f8ee90f0bc2f73b379c7377ee",
