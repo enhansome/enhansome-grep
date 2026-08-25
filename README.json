@@ -120,7 +120,7 @@
             "last_commit": "2026-02-08T03:34:33Z",
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1019
+            "stars": 1020
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27107
+            "stars": 27108
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67575
+            "stars": 67588
           }
         },
         {
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:43.704Z",
+    "last_updated": "2026-08-25T20:39:18.030Z",
     "original_repository": "cipher387/awesome-grep",
     "original_repository_id": 482655067,
     "original_repository_sha": "2806719ff421092f8ee90f0bc2f73b379c7377ee",
