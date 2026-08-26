@@ -210,7 +210,7 @@
             "last_commit": "2026-08-19T08:51:31Z",
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2164
+            "stars": 2165
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67588
+            "stars": 67618
           }
         },
         {
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:39:18.030Z",
+    "last_updated": "2026-08-26T23:21:55.781Z",
     "original_repository": "cipher387/awesome-grep",
     "original_repository_id": 482655067,
     "original_repository_sha": "2806719ff421092f8ee90f0bc2f73b379c7377ee",
