@@ -16,7 +16,8 @@
             "owner": "phiresky",
             "repo": "ripgrep-all",
             "stars": 9827
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "MoserMichael",
             "repo": "rzgrep",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "zazuum",
             "repo": "xlsxgrep",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "TUVIMEN",
             "repo": "reliq",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "m4b",
             "repo": "bingrep",
             "stars": 1778
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "awgn",
             "repo": "cgrep",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "jondot",
             "repo": "bhgrep",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "jpr5",
             "repo": "ngrep",
             "stars": 1020
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "quasilyte",
             "repo": "phpgrep",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "gvansickle",
             "repo": "ucg",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "o-oconnell",
             "repo": "mp4grep",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "codypierce",
             "repo": "hackers-grep",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mattn",
             "repo": "jvgrep",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -210,8 +223,9 @@
             "last_commit": "2026-08-19T08:51:31Z",
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2166
-          }
+            "stars": 2167
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "skwp",
             "repo": "greplace.vim",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "leonid-shevtsov",
             "repo": "SearchInProject_SublimeText",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "beyondgrep",
             "repo": "ack3",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -270,8 +287,9 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27107
-          }
+            "stars": 27108
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "svent",
             "repo": "sift",
             "stars": 1651
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "grosser",
             "repo": "pru",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "veorq",
             "repo": "blueflower",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -330,8 +351,9 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67631
-          }
+            "stars": 67644
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "alexgelman",
             "repo": "WinGrep",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "fulcrumgenomics",
             "repo": "fqgrep",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "vrothberg",
             "repo": "vgrep",
             "stars": 704
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "HerringtonDarkholme",
             "repo": "ast-grep",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "briandfoy",
             "repo": "wordpress-grep",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "cado-security",
             "repo": "cloudgrep",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         },
         {
           "node_type": "item",
@@ -436,14 +464,15 @@
             "owner": "cipher387",
             "repo": "grep_for_osint",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:26.516Z",
+    "last_updated": "2026-08-28T04:20:45.224Z",
     "original_repository_info": {
       "archived": false,
       "id": 482655067,
