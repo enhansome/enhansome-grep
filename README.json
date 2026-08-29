@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9827,
+            "stars": 9828,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -304,7 +304,7 @@
             "open_issues": 0,
             "owner": "codypierce",
             "repo": "hackers-grep",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -346,7 +346,7 @@
             "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2169,
+            "stars": 2171,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27109,
+            "stars": 27110,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 183,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67677,
+            "stars": 67699,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:54.818Z",
+    "last_updated": "2026-08-29T22:36:37.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
