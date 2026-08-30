@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9828,
+            "stars": 9829,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -197,7 +197,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1020,
+            "stars": 1019,
             "topics": [
               "grepping",
               "sniffer"
@@ -526,7 +526,7 @@
             "open_issues": 183,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67699,
+            "stars": 67724,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:36:37.171Z",
+    "last_updated": "2026-08-30T22:40:23.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
