@@ -57,7 +57,7 @@
             "id": 202332301,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T21:53:24Z",
+            "last_commit": "2026-09-02T12:00:57Z",
             "open_issues": 0,
             "owner": "zazuum",
             "repo": "xlsxgrep",
@@ -325,7 +325,7 @@
             "open_issues": 5,
             "owner": "mattn",
             "repo": "jvgrep",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -346,7 +346,7 @@
             "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2173,
+            "stars": 2174,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 184,
+            "open_issues": 185,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67829,
+            "stars": 67887,
             "topics": [
               "cli",
               "command-line",
@@ -655,7 +655,7 @@
             "id": 15140648,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-03-10T12:17:56Z",
+            "last_commit": "2026-09-02T01:38:36Z",
             "open_issues": 0,
             "owner": "briandfoy",
             "repo": "wordpress-grep",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:32:47.407Z",
+    "last_updated": "2026-09-02T22:32:58.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
