@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9829,
+            "stars": 9832,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -57,7 +57,7 @@
             "id": 202332301,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T12:00:57Z",
+            "last_commit": "2026-09-03T18:27:17Z",
             "open_issues": 0,
             "owner": "zazuum",
             "repo": "xlsxgrep",
@@ -121,7 +121,7 @@
             "open_issues": 7,
             "owner": "m4b",
             "repo": "bingrep",
-            "stars": 1779,
+            "stars": 1780,
             "topics": [
               "binary",
               "elf",
@@ -346,7 +346,7 @@
             "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2174,
+            "stars": 2177,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -409,7 +409,7 @@
             "open_issues": 151,
             "owner": "beyondgrep",
             "repo": "ack3",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "ack",
               "cli",
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27113,
+            "stars": 27114,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 185,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67887,
+            "stars": 67936,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:32:58.308Z",
+    "last_updated": "2026-09-03T22:29:45.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
