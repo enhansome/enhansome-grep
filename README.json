@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9832,
+            "stars": 9831,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -57,11 +57,11 @@
             "id": 202332301,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T18:27:17Z",
+            "last_commit": "2026-09-04T20:10:42Z",
             "open_issues": 0,
             "owner": "zazuum",
             "repo": "xlsxgrep",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "command-line-tool",
               "csv-files",
@@ -342,11 +342,11 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-19T08:51:31Z",
+            "last_commit": "2026-09-04T16:27:30Z",
             "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2177,
+            "stars": 2178,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27114,
+            "stars": 27118,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 185,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67936,
+            "stars": 67957,
             "topics": [
               "cli",
               "command-line",
@@ -603,7 +603,7 @@
             "id": 32987887,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T04:52:24Z",
+            "last_commit": "2026-09-04T04:52:35Z",
             "open_issues": 3,
             "owner": "vrothberg",
             "repo": "vgrep",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:29:45.934Z",
+    "last_updated": "2026-09-04T22:18:39.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
