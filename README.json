@@ -57,7 +57,7 @@
             "id": 202332301,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T20:10:42Z",
+            "last_commit": "2026-09-05T11:04:13Z",
             "open_issues": 0,
             "owner": "zazuum",
             "repo": "xlsxgrep",
@@ -409,7 +409,7 @@
             "open_issues": 151,
             "owner": "beyondgrep",
             "repo": "ack3",
-            "stars": 824,
+            "stars": 825,
             "topics": [
               "ack",
               "cli",
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27118,
+            "stars": 27119,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 185,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67957,
+            "stars": 67983,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:18:39.029Z",
+    "last_updated": "2026-09-05T22:02:07.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
