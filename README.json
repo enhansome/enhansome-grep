@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9831,
+            "stars": 9830,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -405,8 +405,8 @@
             "id": 83812650,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-11T01:35:11Z",
-            "open_issues": 151,
+            "last_commit": "2026-09-06T01:03:39Z",
+            "open_issues": 152,
             "owner": "beyondgrep",
             "repo": "ack3",
             "stars": 825,
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 185,
+            "open_issues": 187,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67983,
+            "stars": 68008,
             "topics": [
               "cli",
               "command-line",
@@ -655,7 +655,7 @@
             "id": 15140648,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T01:38:36Z",
+            "last_commit": "2026-09-06T16:08:09Z",
             "open_issues": 0,
             "owner": "briandfoy",
             "repo": "wordpress-grep",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:02:07.413Z",
+    "last_updated": "2026-09-06T22:05:29.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
