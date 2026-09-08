@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9830,
+            "stars": 9837,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -91,7 +91,7 @@
             "id": 325020145,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-05-16T20:23:09Z",
+            "last_commit": "2026-09-08T18:05:19Z",
             "open_issues": 0,
             "owner": "TUVIMEN",
             "repo": "reliq",
@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "awgn",
             "repo": "cgrep",
-            "stars": 744,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -346,7 +346,7 @@
             "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2179,
+            "stars": 2181,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27120,
+            "stars": 27119,
             "topics": [
               "ag",
               "c",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 190,
+            "open_issues": 191,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68061,
+            "stars": 68106,
             "topics": [
               "cli",
               "command-line",
@@ -655,7 +655,7 @@
             "id": 15140648,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T16:08:09Z",
+            "last_commit": "2026-09-08T21:08:05Z",
             "open_issues": 0,
             "owner": "briandfoy",
             "repo": "wordpress-grep",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:45:30.052Z",
+    "last_updated": "2026-09-08T22:33:44.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
