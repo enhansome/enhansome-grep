@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9843,
+            "stars": 9845,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -343,10 +343,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-09-09T15:00:28Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2183,
+            "stars": 2184,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 563,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27120,
+            "stars": 27121,
             "topics": [
               "ag",
               "c",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 196,
+            "open_issues": 199,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68298,
+            "stars": 68333,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:51:38.945Z",
+    "last_updated": "2026-09-16T22:52:20.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
