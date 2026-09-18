@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T11:25:07Z",
-            "open_issues": 72,
+            "open_issues": 70,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9847,
+            "stars": 9848,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -197,7 +197,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1020,
+            "stars": 1021,
             "topics": [
               "grepping",
               "sniffer"
@@ -409,7 +409,7 @@
             "open_issues": 153,
             "owner": "beyondgrep",
             "repo": "ack3",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "ack",
               "cli",
@@ -435,7 +435,7 @@
             "open_issues": 563,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27119,
+            "stars": 27120,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 199,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68379,
+            "stars": 68415,
             "topics": [
               "cli",
               "command-line",
@@ -603,11 +603,11 @@
             "id": 32987887,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T11:24:48Z",
+            "last_commit": "2026-09-18T08:37:41Z",
             "open_issues": 2,
             "owner": "vrothberg",
             "repo": "vgrep",
-            "stars": 706,
+            "stars": 707,
             "topics": [
               "frontend",
               "git-grep",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:48:52.377Z",
+    "last_updated": "2026-09-18T22:30:27.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
