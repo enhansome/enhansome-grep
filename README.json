@@ -19,7 +19,7 @@
             "open_issues": 80,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9866,
+            "stars": 9867,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -121,7 +121,7 @@
             "open_issues": 7,
             "owner": "m4b",
             "repo": "bingrep",
-            "stars": 1785,
+            "stars": 1786,
             "topics": [
               "binary",
               "elf",
@@ -197,7 +197,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "grepping",
               "sniffer"
@@ -346,7 +346,7 @@
             "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2193,
+            "stars": 2196,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27121,
+            "stars": 27123,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 201,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68788,
+            "stars": 68812,
             "topics": [
               "cli",
               "command-line",
@@ -718,7 +718,7 @@
             "open_issues": 0,
             "owner": "cipher387",
             "repo": "grep_for_osint",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "grep",
               "osint",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:54.289Z",
+    "last_updated": "2026-10-03T22:49:19.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
