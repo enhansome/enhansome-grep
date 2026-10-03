@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27120,
+            "stars": 27121,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 201,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68786,
+            "stars": 68788,
             "topics": [
               "cli",
               "command-line",
@@ -705,7 +705,7 @@
         {
           "node_type": "item",
           "title": "cipher387/grep_for_osint",
-          "description": null,
+          "description": "cipher387/grep_for_osint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:42:52.264Z",
+    "last_updated": "2026-10-03T04:52:54.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
