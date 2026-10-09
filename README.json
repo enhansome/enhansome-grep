@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9874,
+            "stars": 9876,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -342,7 +342,7 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T18:56:29Z",
+            "last_commit": "2026-10-08T19:51:34Z",
             "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27125,
+            "stars": 27124,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 202,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68904,
+            "stars": 68935,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:07:49.910Z",
+    "last_updated": "2026-10-09T00:15:42.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
