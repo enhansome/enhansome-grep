@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9874,
+            "stars": 9876,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -121,7 +121,7 @@
             "open_issues": 7,
             "owner": "m4b",
             "repo": "bingrep",
-            "stars": 1786,
+            "stars": 1785,
             "topics": [
               "binary",
               "elf",
@@ -170,7 +170,7 @@
             "open_issues": 0,
             "owner": "jondot",
             "repo": "bhgrep",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "cli",
               "dfir",
@@ -283,7 +283,7 @@
             "open_issues": 6,
             "owner": "o-oconnell",
             "repo": "mp4grep",
-            "stars": 290,
+            "stars": 291,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -342,11 +342,11 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T19:51:34Z",
+            "last_commit": "2026-10-12T16:29:50Z",
             "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2201,
+            "stars": 2202,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27127,
+            "stars": 27128,
             "topics": [
               "ag",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 204,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69057,
+            "stars": 69105,
             "topics": [
               "cli",
               "command-line",
@@ -685,7 +685,7 @@
             "open_issues": 0,
             "owner": "cado-security",
             "repo": "cloudgrep",
-            "stars": 333,
+            "stars": 334,
             "topics": [
               "aws",
               "aws-s3",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:36:23.146Z",
+    "last_updated": "2026-10-13T01:58:17.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
@@ -744,7 +744,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "awesome-grep",
-      "stars": 146,
+      "stars": 147,
       "topics": [
         "awesome",
         "awesome-list",
