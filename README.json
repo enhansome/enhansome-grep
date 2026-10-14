@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "zazuum",
             "repo": "xlsxgrep",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "command-line-tool",
               "csv-files",
@@ -121,7 +121,7 @@
             "open_issues": 7,
             "owner": "m4b",
             "repo": "bingrep",
-            "stars": 1786,
+            "stars": 1785,
             "topics": [
               "binary",
               "elf",
@@ -221,7 +221,7 @@
             "open_issues": 28,
             "owner": "quasilyte",
             "repo": "phpgrep",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "ast",
               "code",
@@ -252,8 +252,8 @@
             "id": 41645766,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T23:09:40Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-14T21:00:10Z",
+            "open_issues": 25,
             "owner": "gvansickle",
             "repo": "ucg",
             "stars": 144,
@@ -346,7 +346,7 @@
             "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2203,
+            "stars": 2205,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27128,
+            "stars": 27129,
             "topics": [
               "ag",
               "c",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 204,
+            "open_issues": 207,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69115,
+            "stars": 69106,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:42:10.994Z",
+    "last_updated": "2026-10-14T23:08:35.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
