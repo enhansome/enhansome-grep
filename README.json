@@ -197,7 +197,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1023,
+            "stars": 1024,
             "topics": [
               "grepping",
               "sniffer"
@@ -342,11 +342,11 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T22:35:07Z",
+            "last_commit": "2026-10-18T13:51:26Z",
             "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2211,
+            "stars": 2212,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -526,7 +526,7 @@
             "open_issues": 216,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69193,
+            "stars": 69221,
             "topics": [
               "cli",
               "command-line",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:12:12.419Z",
+    "last_updated": "2026-10-18T22:22:51.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
