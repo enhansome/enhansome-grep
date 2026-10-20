@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9883,
+            "stars": 9888,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -343,10 +343,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-10-18T13:51:26Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2212,
+            "stars": 2215,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 565,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27128,
+            "stars": 27130,
             "topics": [
               "ag",
               "c",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 214,
+            "open_issues": 219,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69254,
+            "stars": 69284,
             "topics": [
               "cli",
               "command-line",
@@ -624,27 +624,6 @@
         },
         {
           "node_type": "item",
-          "title": "Astgrep",
-          "description": "A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust https://github.com/HerringtonDarkholme/ast-grep",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "placeholder",
-            "homepage": null,
-            "id": 539162593,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2022-09-23T14:41:10Z",
-            "open_issues": 0,
-            "owner": "HerringtonDarkholme",
-            "repo": "ast-grep",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:20:45.224Z"
-        },
-        {
-          "node_type": "item",
           "title": "Wordpress-grep",
           "description": "A Perl tool to search through a WordPress database https://github.com/briandfoy/wordpress-grep",
           "children": [],
@@ -704,6 +683,38 @@
         },
         {
           "node_type": "item",
+          "title": "Ripgrep",
+          "description": "\"Ripgrep recursively searches directories for a regex pattern while respecting your gitignore\" https://github.com/BurntSushi/ripgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+            "homepage": null,
+            "id": 53631945,
+            "language": "Rust",
+            "license": "Unlicense",
+            "last_commit": "2026-08-04T13:59:44Z",
+            "open_issues": 219,
+            "owner": "BurntSushi",
+            "repo": "ripgrep",
+            "stars": 69284,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "gitignore",
+              "grep",
+              "recursively-search",
+              "regex",
+              "ripgrep",
+              "rust",
+              "search"
+            ]
+          },
+          "first_seen": "2026-08-28T04:20:45.224Z"
+        },
+        {
+          "node_type": "item",
           "title": "cipher387/grep_for_osint",
           "description": "cipher387/grep_for_osint",
           "children": [],
@@ -732,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:32:42.372Z",
+    "last_updated": "2026-10-20T23:07:27.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
@@ -740,8 +751,8 @@
       "id": 482655067,
       "language": null,
       "license": null,
-      "last_commit": "2025-12-20T20:00:10Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-20T11:55:43Z",
+      "open_issues": 0,
       "owner": "cipher387",
       "repo": "awesome-grep",
       "stars": 147,
@@ -753,7 +764,7 @@
         "linux"
       ]
     },
-    "original_repository_sha": "2806719ff421092f8ee90f0bc2f73b379c7377ee",
+    "original_repository_sha": "8729b811a994176f73660ab45b28b8da96548366",
     "enhanced_repository": "enhansome/enhansome-grep",
     "enhanced_repository_description": null,
     "title": "Awesome grep with stars"
