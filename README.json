@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-10-23T20:00:21Z",
-            "open_issues": 209,
+            "open_issues": 210,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69405,
+            "stars": 69439,
             "topics": [
               "cli",
               "command-line",
@@ -694,10 +694,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-10-23T20:00:21Z",
-            "open_issues": 209,
+            "open_issues": 210,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69405,
+            "stars": 69439,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:24:20.699Z",
+    "last_updated": "2026-10-25T22:28:18.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
