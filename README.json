@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9902,
+            "stars": 9904,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "awgn",
             "repo": "cgrep",
-            "stars": 743,
+            "stars": 742,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -283,7 +283,7 @@
             "open_issues": 6,
             "owner": "o-oconnell",
             "repo": "mp4grep",
-            "stars": 291,
+            "stars": 292,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -342,11 +342,11 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T13:51:26Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-29T18:00:51Z",
+            "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2225,
+            "stars": 2226,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27126,
+            "stars": 27125,
             "topics": [
               "ag",
               "c",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-10-27T18:31:31Z",
-            "open_issues": 211,
+            "open_issues": 212,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69545,
+            "stars": 69549,
             "topics": [
               "cli",
               "command-line",
@@ -694,10 +694,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-10-27T18:31:31Z",
-            "open_issues": 211,
+            "open_issues": 212,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69545,
+            "stars": 69549,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:58:25.886Z",
+    "last_updated": "2026-10-29T23:54:01.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
