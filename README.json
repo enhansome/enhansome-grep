@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9904,
+            "stars": 9906,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -121,7 +121,7 @@
             "open_issues": 7,
             "owner": "m4b",
             "repo": "bingrep",
-            "stars": 1785,
+            "stars": 1786,
             "topics": [
               "binary",
               "elf",
@@ -145,7 +145,7 @@
             "id": 9998485,
             "language": "Haskell",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-17T09:52:08Z",
+            "last_commit": "2026-10-30T07:39:03Z",
             "open_issues": 0,
             "owner": "awgn",
             "repo": "cgrep",
@@ -197,7 +197,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1024,
+            "stars": 1026,
             "topics": [
               "grepping",
               "sniffer"
@@ -342,7 +342,7 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T18:00:51Z",
+            "last_commit": "2026-10-30T18:51:34Z",
             "open_issues": 1,
             "owner": "dnGrep",
             "repo": "dnGrep",
@@ -526,7 +526,7 @@
             "open_issues": 212,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69549,
+            "stars": 69583,
             "topics": [
               "cli",
               "command-line",
@@ -697,7 +697,7 @@
             "open_issues": 212,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69549,
+            "stars": 69583,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:54:01.484Z",
+    "last_updated": "2026-10-30T23:37:58.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
