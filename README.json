@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9907,
+            "stars": 9910,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -342,7 +342,7 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T18:51:34Z",
+            "last_commit": "2026-11-01T07:51:36Z",
             "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
@@ -409,7 +409,7 @@
             "open_issues": 158,
             "owner": "beyondgrep",
             "repo": "ack3",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "ack",
               "cli",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-10-27T18:31:31Z",
-            "open_issues": 214,
+            "open_issues": 215,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69596,
+            "stars": 69626,
             "topics": [
               "cli",
               "command-line",
@@ -634,7 +634,7 @@
             "id": 15140648,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T05:57:05Z",
+            "last_commit": "2026-11-01T23:17:13Z",
             "open_issues": 0,
             "owner": "briandfoy",
             "repo": "wordpress-grep",
@@ -694,10 +694,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-10-27T18:31:31Z",
-            "open_issues": 214,
+            "open_issues": 215,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69596,
+            "stars": 69626,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:17:50.991Z",
+    "last_updated": "2026-11-01T23:29:46.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
