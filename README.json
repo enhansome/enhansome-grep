@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9921,
+            "stars": 9924,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -121,7 +121,7 @@
             "open_issues": 7,
             "owner": "m4b",
             "repo": "bingrep",
-            "stars": 1786,
+            "stars": 1787,
             "topics": [
               "binary",
               "elf",
@@ -346,7 +346,7 @@
             "open_issues": 2,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2236,
+            "stars": 2238,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -522,11 +522,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-10-27T18:31:31Z",
-            "open_issues": 225,
+            "last_commit": "2026-11-09T20:53:12Z",
+            "open_issues": 226,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69911,
+            "stars": 69946,
             "topics": [
               "cli",
               "command-line",
@@ -693,11 +693,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-10-27T18:31:31Z",
-            "open_issues": 225,
+            "last_commit": "2026-11-09T20:53:12Z",
+            "open_issues": 226,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69911,
+            "stars": 69946,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:38:33.241Z",
+    "last_updated": "2026-11-10T02:39:47.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
