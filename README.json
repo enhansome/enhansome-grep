@@ -346,7 +346,7 @@
             "open_issues": 3,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2239,
+            "stars": 2238,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27124,
+            "stars": 27125,
             "topics": [
               "ag",
               "c",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-11-09T20:53:12Z",
-            "open_issues": 225,
+            "open_issues": 226,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69902,
+            "stars": 69926,
             "topics": [
               "cli",
               "command-line",
@@ -694,10 +694,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-11-09T20:53:12Z",
-            "open_issues": 225,
+            "open_issues": 226,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 69902,
+            "stars": 69926,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:52:22.784Z",
+    "last_updated": "2026-11-13T00:59:36.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
