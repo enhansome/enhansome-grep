@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9932,
+            "stars": 9933,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -121,7 +121,7 @@
             "open_issues": 7,
             "owner": "m4b",
             "repo": "bingrep",
-            "stars": 1787,
+            "stars": 1788,
             "topics": [
               "binary",
               "elf",
@@ -342,11 +342,11 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T19:36:30Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-18T19:38:04Z",
+            "open_issues": 7,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2243,
+            "stars": 2244,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -406,7 +406,7 @@
             "language": "Perl",
             "license": "NOASSERTION",
             "last_commit": "2026-11-15T16:43:27Z",
-            "open_issues": 159,
+            "open_issues": 160,
             "owner": "beyondgrep",
             "repo": "ack3",
             "stars": 838,
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27124,
+            "stars": 27126,
             "topics": [
               "ag",
               "c",
@@ -522,11 +522,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-11-09T20:53:12Z",
-            "open_issues": 233,
+            "last_commit": "2026-11-18T23:20:23Z",
+            "open_issues": 226,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70023,
+            "stars": 70048,
             "topics": [
               "cli",
               "command-line",
@@ -664,7 +664,7 @@
             "open_issues": 0,
             "owner": "cado-security",
             "repo": "cloudgrep",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "aws",
               "aws-s3",
@@ -693,11 +693,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-11-09T20:53:12Z",
-            "open_issues": 233,
+            "last_commit": "2026-11-18T23:20:23Z",
+            "open_issues": 226,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70023,
+            "stars": 70048,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:19:41.796Z",
+    "last_updated": "2026-11-19T01:50:24.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
