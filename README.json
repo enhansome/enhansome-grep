@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9933,
+            "stars": 9935,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "awgn",
             "repo": "cgrep",
-            "stars": 745,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -197,7 +197,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1026,
+            "stars": 1025,
             "topics": [
               "grepping",
               "sniffer"
@@ -346,7 +346,7 @@
             "open_issues": 7,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2244,
+            "stars": 2245,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -409,7 +409,7 @@
             "open_issues": 160,
             "owner": "beyondgrep",
             "repo": "ack3",
-            "stars": 838,
+            "stars": 837,
             "topics": [
               "ack",
               "cli",
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27126,
+            "stars": 27128,
             "topics": [
               "ag",
               "c",
@@ -463,7 +463,7 @@
             "open_issues": 45,
             "owner": "svent",
             "repo": "sift",
-            "stars": 1656,
+            "stars": 1655,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -522,11 +522,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-11-18T23:20:23Z",
-            "open_issues": 226,
+            "last_commit": "2026-11-19T17:34:36Z",
+            "open_issues": 227,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70048,
+            "stars": 70076,
             "topics": [
               "cli",
               "command-line",
@@ -607,7 +607,7 @@
             "open_issues": 0,
             "owner": "vrothberg",
             "repo": "vgrep",
-            "stars": 709,
+            "stars": 708,
             "topics": [
               "frontend",
               "git-grep",
@@ -664,7 +664,7 @@
             "open_issues": 0,
             "owner": "cado-security",
             "repo": "cloudgrep",
-            "stars": 338,
+            "stars": 337,
             "topics": [
               "aws",
               "aws-s3",
@@ -693,11 +693,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-11-18T23:20:23Z",
-            "open_issues": 226,
+            "last_commit": "2026-11-19T17:34:36Z",
+            "open_issues": 227,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70048,
+            "stars": 70076,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:50:24.470Z",
+    "last_updated": "2026-11-20T01:44:47.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
