@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T11:25:07Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9935,
+            "stars": 9938,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -343,10 +343,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-11-20T02:20:50Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2244,
+            "stars": 2247,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27129,
+            "stars": 27128,
             "topics": [
               "ag",
               "c",
@@ -522,11 +522,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-11-21T01:12:32Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-21T23:20:30Z",
+            "open_issues": 118,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70108,
+            "stars": 70122,
             "topics": [
               "cli",
               "command-line",
@@ -693,11 +693,11 @@
             "id": 53631945,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-11-21T01:12:32Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-21T23:20:30Z",
+            "open_issues": 118,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70108,
+            "stars": 70122,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:22:57.344Z",
+    "last_updated": "2026-11-22T00:16:10.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
