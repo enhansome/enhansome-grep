@@ -197,7 +197,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1025,
+            "stars": 1026,
             "topics": [
               "grepping",
               "sniffer"
@@ -342,11 +342,11 @@
             "id": 24975261,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T02:20:50Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-23T19:39:26Z",
+            "open_issues": 9,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2248,
+            "stars": 2249,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-11-22T23:04:08Z",
-            "open_issues": 73,
+            "open_issues": 78,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70143,
+            "stars": 70221,
             "topics": [
               "cli",
               "command-line",
@@ -694,10 +694,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-11-22T23:04:08Z",
-            "open_issues": 73,
+            "open_issues": 78,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70143,
+            "stars": 70221,
             "topics": [
               "cli",
               "command-line",
@@ -729,7 +729,7 @@
             "open_issues": 0,
             "owner": "cipher387",
             "repo": "grep_for_osint",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "grep",
               "osint",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:45:18.448Z",
+    "last_updated": "2026-11-24T04:42:24.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
