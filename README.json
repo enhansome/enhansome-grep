@@ -19,7 +19,7 @@
             "open_issues": 82,
             "owner": "phiresky",
             "repo": "ripgrep-all",
-            "stars": 9944,
+            "stars": 9949,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -346,7 +346,7 @@
             "open_issues": 10,
             "owner": "dnGrep",
             "repo": "dnGrep",
-            "stars": 2251,
+            "stars": 2252,
             "topics": []
           },
           "first_seen": "2026-08-28T04:20:45.224Z"
@@ -435,7 +435,7 @@
             "open_issues": 565,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27123,
+            "stars": 27121,
             "topics": [
               "ag",
               "c",
@@ -523,10 +523,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-11-24T14:57:01Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70395,
+            "stars": 70391,
             "topics": [
               "cli",
               "command-line",
@@ -603,7 +603,7 @@
             "id": 32987887,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T10:47:03Z",
+            "last_commit": "2026-11-27T10:18:58Z",
             "open_issues": 0,
             "owner": "vrothberg",
             "repo": "vgrep",
@@ -664,7 +664,7 @@
             "open_issues": 0,
             "owner": "cado-security",
             "repo": "cloudgrep",
-            "stars": 337,
+            "stars": 336,
             "topics": [
               "aws",
               "aws-s3",
@@ -694,10 +694,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-11-24T14:57:01Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 70395,
+            "stars": 70391,
             "topics": [
               "cli",
               "command-line",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:45:28.360Z",
+    "last_updated": "2026-11-28T02:36:03.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of GREP modifications and alternatives for a variety of purposes",
